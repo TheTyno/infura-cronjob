@@ -1,0 +1,16 @@
+{
+  "name": "refetch-interval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "2.1.0",
+    "web3": "1.8.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}

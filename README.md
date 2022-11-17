@@ -1,2 +1,1 @@
-# infura-cronjob
-Created with CodeSandbox
+Infura Cron Job test
